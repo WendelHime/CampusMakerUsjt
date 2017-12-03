@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CampusMakerUsjt</string>
+    <string name="filtro">Filtro</string>
+    <string name="labti">Laboratório de Tecnologia</string>
+    <string name="descricaoti">Descriçao</string>
+    <string name="descricaoQuimica">Reforço do método que faz uso das diferenças no grau de adsorção e de suas diferenças.</string>
+    <string name="descricaoExcel">Venha aprender conceitos básicos de uma das ferramentas mais usadas no mundo !</string>
+    <string name="descricaoEnfermagem">Venha aperfeiçoar as habilidades profissionais de promover, manter e restabelecer a saúde das pessoas.</string>
+    <string name="descricaoRadio">Convidamos todos para sabermos mais funcionalidades e destacarmos o que ha de inovador no mercado</string>
+    <string name="descricaoEnfermagem2">Venha apreder como se calcula e faça você mesmo sua dieta! Aproveite !</string>
+    <string name="title_activity_navigation">Navigation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="pesquisar">Pesquisar</string>
+</resources>

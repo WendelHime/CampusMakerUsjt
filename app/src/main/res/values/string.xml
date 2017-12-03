@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="myarray">
+        <item>Selecione a área de atuação do evento</item>
+        <item>Humanas</item>
+        <item>Exatas</item>
+        <item>Biológicas</item>
+    </string-array>
+    <string-array name="myarray2">
+        <item>Selecione a unidade</item>
+        <item>Mooca</item>
+        <item>Butantã</item>
+        <item>Paulista</item>
+        <item>Santo Amaro</item>
+        <item>Jabaquara</item>
+    </string-array>
+</resources>
